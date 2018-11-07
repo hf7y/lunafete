@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 59.0, 104.0, 789.0, 683.0 ],
+		"rect" : [ 916.0, 126.0, 789.0, 683.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -83,7 +83,7 @@
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"outlettype" : [ "int" ],
 					"patching_rect" : [ 393.0, 117.0, 30.0, 30.0 ],
 					"style" : ""
 				}
@@ -151,7 +151,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 225.5, 423.0, 182.0, 62.0 ],
 					"style" : "",
-					"text" : "\"Macintosh HD:/Users/audiouser/Desktop/50 samples/PREL_DISTORTION DIG_BS02.24.wav\""
+					"text" : "\"Macintosh HD:/Users/audiouser/Desktop/50 samples/13 Evening Birdsong, Pantanal Swamp.wav.reapeaks\""
 				}
 
 			}
@@ -223,7 +223,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-5",
-					"items" : "<empty>",
+					"items" : [ "Macintosh HD:/Users/audiouser/Desktop/50 samples/07 Lutine Bell, Lloyds, Rung Twice--.wav", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/07 Lutine Bell, Lloyds, Rung Twice--.wav.reapeaks", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/07 Track 07.aiff", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/07 Track 07.aiff.reapeaks", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/13 Evening Birdsong, Pantanal Swamp.wav", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/13 Evening Birdsong, Pantanal Swamp.wav.reapeaks", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/13 Wooden Twangs--2.wav", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/13 Wooden Twangs--2.wav.reapeaks", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/21ZildjianKonstantinBell1.WAV", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/21ZildjianKonstantinBell1.WAV.reapeaks", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/42 Alarm Bell, Firemen Descend Pole.wav", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/42 Alarm Bell, Firemen Descend Pole.wav.reapeaks", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/55-70 Wood (Dead Acc) Walking_ man s.wav", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/55-70 Wood (Dead Acc) Walking_ man s.wav.reapeaks", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/AccentGlocken_S08MU.5.wav", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/AccentGlocken_S08MU.5.wav.reapeaks", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/BELLbDIR.wav", ",", "Macintosh HD:/Users/audiouser/Desktop/50 samples/BELLbDIR.wav.reapeaks" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
